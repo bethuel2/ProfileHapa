@@ -13,7 +13,7 @@ function Footer() {
       <div>
         <h2 className="w-full text-2xl font-bold text-[#3de0ad]">About Us</h2>
         <p className='text-xl'>
-        "HAPA: Cultivating peace, fostering tolerance, and promoting inclusivity for a prosperous and harmonious Horn of Africa."
+        HAPA Cultivating peace, fostering tolerance, and promoting inclusivity for a prosperous and harmonious Horn of Africa.
         </p>
         <div className=" mt-28 flex  justify-between  md:w-[75%]my-6 ">
           <FaFacebookSquare size={30} />

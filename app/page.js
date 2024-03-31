@@ -76,7 +76,7 @@ Our goal is to advance sustainable development, peacemaking, and tolerance acros
             <h1 className=" text-3xl font-semibold text-blue-500">Vission</h1>
             <p className="text-xl font-semibold mt-5">
               To create a harmonious and prosperous Horn of Africawhere every
-              individual's potential is realized, conflictsare resolved through
+              individuals potential is realized, conflictsare resolved through
               dialogue, and communities thrivein an atmosphere of inclusivity
               and shared prosperity.
             </p>
