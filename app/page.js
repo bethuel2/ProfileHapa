@@ -4,7 +4,7 @@ import Moha from "./images/Moha.png";
 import Director from "./images/Director.png";
 import Zulekha from "./images/Zulekha.png";
 import Peace1 from "./images/peace1.png";
-import Hapa from "./images/hapa.png";
+import Hapa from "./images/Hapa.png";
 import Image from "next/image";
 import { FaXTwitter, FaLinkedin } from "react-icons/fa6";
 import  {FaInstagram, FaHandshake,FaBullhorn, } from  "react-icons/fa";
