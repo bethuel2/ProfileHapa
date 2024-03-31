@@ -34,7 +34,7 @@ export default function Home() {
 
 Our fundamental beliefs centre around the transforming power of communication, empathy, and teamwork. We seek to be the driving force behind constructive change in an area frequently characterised by tense historical relations and difficult problems. We put forth great effort to mend rifts and foster mutual understanding among groups.
 
-Our goal is to advance sustainable development, peacemaking, and tolerance across the Horn of Africa. Through community involvement, advocacy, and grassroots projects, we hope to build a just and peaceful society in which each person's rights and dignity are upheld.
+Our goal is to advance sustainable development, peacemaking, and tolerance across the Horn of Africa. Through community involvement, advocacy, and grassroots projects, we hope to build a just and peaceful society in which each persons rights and dignity are upheld.
 </p>
 
         <div className="flex justify-center items-center">
