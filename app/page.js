@@ -7,18 +7,11 @@ import Peace1 from "./images/peace1.png";
 import Hapa from "./images/hapa.png";
 import Image from "next/image";
 import { FaXTwitter, FaLinkedin } from "react-icons/fa6";
-import {
-  FaGithubSquare,
-  FaInstagram,
-  FaHandshake,
-  FaBullhorn,
-} from "react-icons/fa";
+import  {FaInstagram, FaHandshake,FaBullhorn, } from  "react-icons/fa";
 import { GiAfrica } from "react-icons/gi";
-import Link from "next/link";
-
 export default function Home() {
   return (
-    <NavLayout className="">
+    <NavLayout>
       <div>
         <div className="bg-gray-500 col-8 pt-2 col-md-3 pt-md-4">
           <div className="relative ">
