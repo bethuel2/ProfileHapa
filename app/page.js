@@ -30,11 +30,7 @@ export default function Home() {
       <section className="px-11 bg-gray-100 p-4" id="home">
         <h1 className="mb-4 ml-11 mt-5 text-4xl font-semibold">About Us</h1>
         <p className="text-2xl ml-11 mt-4 mb-9">
-        Welcome to our organisation, a beacon of hope and peace in the rich and varied fabric of the Horn of Africa. We are a group of enthusiastic people committed to promoting wealth, peace, and understanding in our area.
-
-Our fundamental beliefs centre around the transforming power of communication, empathy, and teamwork. We seek to be the driving force behind constructive change in an area frequently characterised by tense historical relations and difficult problems. We put forth great effort to mend rifts and foster mutual understanding among groups.
-
-Our goal is to advance sustainable development, peacemaking, and tolerance across the Horn of Africa. Through community involvement, advocacy, and grassroots projects, we hope to build a just and peaceful society in which each persons rights and dignity are upheld.
+        Horn of Africa Peace Ambassadors (HAPA) is a distinguished organization dedicatedto promoting peace, reconciliation, and sustainable development in the Horn ofAfrica region. With a mission to foster dialogue, understanding, and collaborationamong diverse communities, HAPA offers a range of services including conflictresolution, peacebuilding programs, policy development, capacity building, andnegotiation. Guided by core values of integrity, inclusivity, innovation, collaboration,and accountability, HAPA's team of experienced professionals works tirelessly tocreate meaningful experiences that contribute to the realization of their vision - aharmonious and prosperous Horn of Africa where every individual's potential isrealized, conflicts are resolved through dialogue, and communities thrive in anatmosphere of inclusivity and shared prosperity.
 </p>
 
         <div className="flex justify-center items-center">
