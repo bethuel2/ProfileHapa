@@ -62,18 +62,18 @@ export default function Home() {
           <div class=" w-full  sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4  border-gray-600 hover:scale-105 transition duration-900 ease-in-out p-2 text-center rounded-lg py-10 px-8">
             <h1 className="text-3xl font-semibold text-blue-500 ">Mission</h1>
             <p className="text-xl font-semibold mt-5">
-              To promote peace, reconciliation, and sustainabledevelopment in
+              To promote peace, reconciliation, and sustainable development in
               the Horn of Africa. We strive topromote dialogue, understanding,
-              and collaborationamong diverse communities to address conflict
-              andbuild resilient societies.
+              and collaboration among diverse communities to address conflict
+              and build resilient societies.
             </p>
           </div>
           <div class="w-full sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4  border-gray-600 p-2  hover:scale-105 transition duration-900 ease-in-outtext-center rounded-lg py-10 px-8">
             <h1 className=" text-3xl font-semibold text-blue-500">Vission</h1>
             <p className="text-xl font-semibold mt-5">
-              To create a harmonious and prosperous Horn of Africawhere every
-              individuals potential is realized, conflictsare resolved through
-              dialogue, and communities thrivein an atmosphere of inclusivity
+              To create a harmonious and prosperous Horn of Africa where every
+              individuals potential is realized, conflicts are resolved through
+              dialogue, and communities thrive in an atmosphere of inclusivity
               and shared prosperity.
             </p>
           </div>
