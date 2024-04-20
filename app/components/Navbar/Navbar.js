@@ -14,18 +14,15 @@ function Navbar() {
       
         <p className='  text-white text-2xl hover:text-green-500'> Welcome to Horn Of Africa Peace Ambasadors</p>
       </div>
-      <div className='flex md:hidden'>
-        <button onClick={() => setIsOpen(!isOpen)}>
-          {isOpen ? <AiOutlineClose size={30} className='text-white' /> : <AiOutlineMenu size={30} className='text-white' />}
-        </button>
-      </div>
-      <ul className={`flex ${isOpen ? 'flex' : 'hidden'} mb-3 mr-7 md:flex md:flex-row gap-2 md:gap-4 justify-end md: md:mr-0`}>
-        <li> <Link href='#home' className='text-white hover:text-green-500'>Home</Link></li>
-        <li><Link href='#about us'className='text-white hover:text-green-500'> About Us</Link></li>
-        <li> <Link href='#our team'className='text-white hover:text-green-500'>Our Team</Link></li>
-        <li><Link href='#get involved'className='text-white hover:text-green-500'> Get Involved</Link></li>
-        <li><Link href='#contact us'className='text-white hover:text-green-500'>Contact Us</Link></li>
-      </ul>
+        <ul className='flex flex-col md:flex-row gap-2 md:gap-4 justify-end md: md:mr-0'>
+            <li> <Link href='#home' className='text-white hover:text-green-500'> <FaHome size={30} className= "text-white" />Home</Link></li>
+            <li><Link href='#about us'className='text-white hover:text-green-500'> <FaInfo size={30} className= " text-white" />About Us</Link></li>
+            <li> <Link href='#our team'className='text-white hover:text-green-500'><GiTeamIdea size={30} className= " text-white" />Our Team</Link></li>
+            <li><Link href='#get involved'className='text-white hover:text-green-500'> <FaHandshakeAngle size={30} className= " text-white"  />Get Involved</Link></li>
+            
+            <li><Link href='#contact us'className='text-white hover:text-green-500'> <FaPhoneVolume  size={30} className= " text-white"/>Contact Us</Link></li>
+            
+        </ul>
     </nav>
   )
 }

@@ -30,11 +30,7 @@ export default function Home() {
       <section className="px-11 bg-gray-100 p-4" id="home">
         <h1 className="mb-4 ml-11 mt-5 text-4xl font-semibold">About Us</h1>
         <p className="text-2xl ml-11 mt-4 mb-9">
-        Welcome to our organisation, a beacon of hope and peace in the rich and varied fabric of the Horn of Africa. We are a group of enthusiastic people committed to promoting wealth, peace, and understanding in our area.
-
-Our fundamental beliefs centre around the transforming power of communication, empathy, and teamwork. We seek to be the driving force behind constructive change in an area frequently characterised by tense historical relations and difficult problems. We put forth great effort to mend rifts and foster mutual understanding among groups.
-
-Our goal is to advance sustainable development, peacemaking, and tolerance across the Horn of Africa. Through community involvement, advocacy, and grassroots projects, we hope to build a just and peaceful society in which each persons rights and dignity are upheld.
+        Horn of Africa Peace Ambassadors (HAPA) is a distinguished organization dedicated to promoting peace, reconciliation, and sustainable development in the Horn ofAfrica region. With a mission to foster dialogue, understanding, and collaboration among diverse communities, HAPA offers a range of services including conflict resolution, peace building programs, policy development, capacity building, and negotiation. Guided by core values of integrity, inclusivity, innovation, collaboration,and accountability, HAPAs team of experienced professionals works tirelessly tocreate meaningful experiences that contribute to the realization of their vision - a harmonious and prosperous Horn of Africa where every individuals potential is realized, conflicts are resolved through dialogue, and communities thrive in an atmosphere of inclusivity and shared prosperity.
 </p>
 
         <div className="flex justify-center items-center">
@@ -68,16 +64,16 @@ Our goal is to advance sustainable development, peacemaking, and tolerance acros
             <p className="text-xl font-semibold mt-5">
               To promote peace, reconciliation, and sustainable development in
               the Horn of Africa. We strive topromote dialogue, understanding,
-              and collaborationamong diverse communities to address conflict
-              andbuild resilient societies.
+              and collaboration among diverse communities to address conflict
+              and build resilient societies.
             </p>
           </div>
           <div class="w-full sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4  border-gray-600 p-2  hover:scale-105 transition duration-900 ease-in-outtext-center rounded-lg py-10 px-8">
             <h1 className=" text-3xl font-semibold text-blue-500">Vision</h1>
             <p className="text-xl font-semibold mt-5">
-              To create a harmonious and prosperous Horn of Africawhere every
-              individuals potential is realized, conflictsare resolved through
-              dialogue, and communities thrivein an atmosphere of inclusivity
+              To create a harmonious and prosperous Horn of Africa where every
+              individuals potential is realized, conflicts are resolved through
+              dialogue, and communities thrive in an atmosphere of inclusivity
               and shared prosperity.
             </p>
           </div>
