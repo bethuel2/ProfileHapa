@@ -1,5 +1,5 @@
 import React, { Children } from 'react'
-import Navbar from './Navbar'
+import { Navbar } from './Navbar'
 import Footer from './Footer/Footer'
 
 function NavLayout({children}) {
