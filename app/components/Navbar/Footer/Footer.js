@@ -34,13 +34,14 @@ function Footer() {
             <li className="py-2 text-small">Contact Us </li>
           </ul>
         </div>
-        <div className=''>
+        <div >
           <h4 className=" text-green-500	 ml-20 py-4 font-semibold">Contact us</h4>
           <ul className='ml-20'>
-            <li className="py-2 text-small"><FaPhoneVolume  size={30} className= " text-xl text-white"/>+1(510)836-9098</li>
-            <li className="py-2 text-small"> <MdEmail  size={30} className= " text-xl text-white"/>info@hapa-consultancy</li>
             
+           <li className="py-2 text-small  gap-5 flex "><FaPhoneVolume  size={30} className= "  text-white"/>+1(510)836-9098</li>
+            <li className="py-2 text-small  gap-5 flex "> <MdEmail  size={30} className= " text-xl text-white"/>info@hapa-consultancy</li>
             
+          
           </ul>
         </div>
         

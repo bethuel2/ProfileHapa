@@ -43,9 +43,12 @@ export default function Home() {
             <h1 className="mt-4 text-4xl font-semibold text-black-500 text-center">
               Executive Director
             </h1>
-            <h3 className="mt-3 text-2xl font-semibold text-blue-500 text-center">
+            <h2 className="mt-3 text-3xl font-semibold text-blue-500 text-center">
               Mr Aweis Sheikh Yonis
-            </h3>
+            </h2>
+            <h2 className="mt-3 text-2xl font-semibold text-white-400 text-center">
+              Ambasador of peace:Expert in Negotiation,<br></br>Mediation,and Diplomacy for development.
+            </h2>
             <p className=" mt-3 text-center text-2xl">
               Mr. Aweis Sheikh Yonis is a seasoned professional with over 30
               years of experience in humanitarian service, education, public
@@ -59,29 +62,29 @@ export default function Home() {
       </section>
       <section className="mt-9 px-14  " id="about us">
         <div class="flex flex-wrap justify-center gap-4 ">
-          <div class=" w-full  sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4  border-gray-600 hover:scale-105 transition duration-900 ease-in-out p-2 text-center rounded-lg py-10 px-8">
-            <h1 className="text-3xl font-semibold text-blue-500 ">Mission</h1>
-            <p className="text-xl font-semibold mt-5">
+          <div class=" w-full  sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4 bg-slate-500   hover:scale-105 transition duration-900 ease-in-out p-2 text-center rounded-lg py-10 px-8">
+            <h1 className="text-3xl font-semibold text-white ">Mission</h1>
+            <p className="text-xl  text-white font-semibold mt-5">
               To promote peace, reconciliation, and sustainable development in
               the Horn of Africa. We strive topromote dialogue, understanding,
               and collaboration among diverse communities to address conflict
               and build resilient societies.
             </p>
           </div>
-          <div class="w-full sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4  border-gray-600 p-2  hover:scale-105 transition duration-900 ease-in-outtext-center rounded-lg py-10 px-8">
-            <h1 className=" text-3xl font-semibold text-blue-500">Vision</h1>
-            <p className="text-xl font-semibold mt-5">
+          <div class="w-full sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4 bg-blue-300   hover:scale-105 transition duration-900 ease-in-outtext-center rounded-lg py-10 px-8">
+            <h1 className=" text-3xl font-semibold text-white">Vision</h1>
+            <p className="text-xl text-white font-semibold mt-5">
               To create a harmonious and prosperous Horn of Africa where every
               individuals potential is realized, conflicts are resolved through
               dialogue, and communities thrive in an atmosphere of inclusivity
               and shared prosperity.
             </p>
           </div>
-          <div class="w-full sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4  border-gray-600 p-2  hover:scale-105 transition duration-900 ease-in-outtext-center rounded-lg py-10 px-8">
-            <h1 className=" text-3xl font-semibold text-blue-500">Goals</h1>
-            <p className="text-xl font-semibold mt-5">
+          <div class="w-full sm:w-1/2 md:w-1/3  lg:w-1/4 xl:w-1/4 border-4 bg-gray-700   hover:scale-105 transition duration-900 ease-in-outtext-center rounded-lg py-10 px-8">
+            <h1 className=" text-3xl font-semibold text-white">Goals</h1>
+            <p className="text-xl text-white font-semibold mt-5">
             We aim to Harmonise the Horn of Africa: Reach potential, settle disputes amicably, create welcoming communities, and advance prosperity for all.
-              <h1 className="text-blue-500 underline">Core Values</h1>
+              <h1 className=" text-2xl text-white underline">Core Values</h1>
               <ol>
                 <li>1.Integrity</li>
                 <li>2.Inclusivity</li>
@@ -230,7 +233,7 @@ export default function Home() {
               <div class="flex flex-col items-center">
                 <GiAfrica size={40} />
                 <h2 class="text-2xl font-bold mb-2">
-                  <span>Who</span>&nbsp;we are
+                  <span>Who</span>&nbsp;we are   
                 </h2>
                 <p class="text-center text-xl">
                   The core objective of HAPA is to cultivate the culture
