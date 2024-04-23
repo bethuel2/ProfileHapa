@@ -47,15 +47,9 @@ export default function Home() {
               Africa where every individuals potential is realized, conflicts
               are resolved through dialogue, and communities thrive in an
               atmosphere of inclusivity and shared prosperity.
-            </p>
-          </div>
-          <div>
-          <Image
-              src={Director}
-              alt=""
-              className="h-70 w-70 object-cover  float-left  hover:scale-110 transition duration-900 ease-in-out rounded-full mx-auto "
-            />
-            <h2 className="mb-4 ml-11 mt-5 text-4xl font-semibold">Overview of Services</h2>
+
+              <div>
+            <h2 className="mb-4 ml-11 mt-5 text-3xl font-semibold">Overview of Services</h2>
             <ul className="ml-11 mt-2">
               <li className="text-2xl gap-2 flex"> <IoCheckmarkSharp /> Conflict Resolution</li>
               <li className="text-2xl gap-2 flex"><IoCheckmarkSharp />Peacebuilding Programs</li>
@@ -64,9 +58,9 @@ export default function Home() {
               <li className="text-2xl gap-2 flex"><IoCheckmarkSharp />Policy Development</li>
               
             </ul>
-
+            </div>
+            </p>
           </div>
-          
         </div>
 
         <div className=" mt-4 flex justify-center items-center">
