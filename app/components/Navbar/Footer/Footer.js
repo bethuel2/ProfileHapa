@@ -39,7 +39,8 @@ function Footer() {
           <ul className='ml-20'>
             
            <li className="py-2 text-small  gap-5 flex "><FaPhoneVolume  size={30} className= "  text-white"/>+1(510)836-9098,<br></br>+254113417700,<br></br> +15102906377</li>
-            <li className="py-2 text-small  gap-5 flex "> <MdEmail  size={30} className= " text-xl text-white"/>info@hapa-consultancy.com</li>
+            <li className="py-2 text-small  gap-5 flex "> <MdEmail  size={30} className= " text-xl text-white"/><a href="mailto:info@hapa.com">info@hapa.com</a>
+</li>
             
           
           </ul>
