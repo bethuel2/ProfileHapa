@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 import { FaFacebookSquare,FaInstagram, FaGithub,FaTwitter,FaDribbbleSquare,
 } from "react-icons/fa";
 import {  FaLinkedin } from "react-icons/fa6"
@@ -27,11 +28,11 @@ function Footer() {
         <div>
           <h4 className=" text-green-500	py-4 font-semibold">Quick Links</h4>
           <ul>
-            <li className="py-2 text-small">Home </li>
-            <li className="py-2 text-small">About Us </li>
-            <li className="py-2 text-small">Get Involved</li>
-            <li className="py-2 text-small">Our Team </li>
-            <li className="py-2 text-small">Contact Us </li>
+          <li> <Link href='#home' className='text-white hover:text-green-500'>Home</Link></li>
+        <li><Link href='#about us'className='text-white hover:text-green-500'> About Us</Link></li>
+        <li> <Link href='#our team'className='text-white hover:text-green-500'>Our Team</Link></li>
+        <li><Link href='#get involved'className='text-white hover:text-green-500'> Get Involved</Link></li>
+        <li><Link href='#contact us'className='text-white hover:text-green-500'>Contact Us</Link></li>
           </ul>
         </div>
         <div >
